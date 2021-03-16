@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "xlistentries">
+        <!--item> CS128 Introduction to Coding</item-->
+        <item> CS161 Introduction to Programming</item>
+        <!--item> CS162 Programming and Data Structure</item>
+        <item> CS215 Social Issues</item-->
+        <item> CS225 Health Analytics</item>
+        <item> CS223 Data Science</item>
+        <item> CS255 Advanced Data Structure</item>
+        <!--item> CS263 Computer Architecture and Organization</item>
+        <item> CS275 Database Management Systems</item-->
+        <item> CS277 Discrete Structure</item>
+        <item> CS340 Evolutionary Computation</item>
+        <!--item> CS356 Theory of Computing</item-->
+        <item> CS356 Theory of Computing</item>
+        <item> CS364 Mobile App Development</item>
+        <item> CS368 Data Communications and Networking</item>
+        <item> CS375 Operating Systems</item>
+    </string-array>
+</resources>

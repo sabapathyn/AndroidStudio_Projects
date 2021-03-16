@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "term2listentries">
+        <item> CS128 Introduction to Coding</item>
+        <item> CS162 Programming and Data Structure</item>
+        <item> CS215 Social Issues</item>
+        <item> CS263 Computer Architecture and Organization</item>
+        <item> CS275 Database Management Systems</item>
+        <item> CS356 Theory of Computing</item>
+    </string-array>
+</resources>
